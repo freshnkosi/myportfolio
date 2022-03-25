@@ -1,0 +1,15 @@
+h1 {
+    border: 10px;
+    background-color: aqua;
+    font-family: Georgia;
+    font-size: 90px;
+    text-align: center ;
+}
+
+#countdown {
+    font-family:monospace;
+    font-size: 80px;
+    background-color: darkgray;
+    border: 10px;
+    text-align: center;
+}

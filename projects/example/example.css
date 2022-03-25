@@ -1,0 +1,21 @@
+#IntroSection {
+    font-family: serif;
+    background-color: #7d8082;
+    }
+    h1 {
+    color: black;
+    }
+    p {
+    color:#b3050b;
+    }
+    #mybtn {
+    border: 2px solid black;
+    border-radius: 40px;
+    }
+    img {
+    border-radius:80px;
+    }
+    video {border-radius:60px;
+    }
+    ul {font-family: cursive;
+    }

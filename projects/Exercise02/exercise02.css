@@ -1,0 +1,25 @@
+#Myintro {
+     font-size: 50px;
+    font-family : serif;
+}
+h1{
+    font-size: 80%;
+    font-family: Arial;
+}
+  p {
+      font-size: 50px;
+    }
+
+#Car {
+     font-family: monospace;
+}
+p {
+    font-size: medium;
+}
+img {
+   height: 70%;
+   width : 70%;
+    border-radius: 20px;
+    border-color: black;
+
+}
